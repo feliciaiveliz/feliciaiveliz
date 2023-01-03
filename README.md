@@ -5,8 +5,8 @@
 🎉 Most recently, I built Nexus, an open-source GraphQL tool that generates and deploys a GraphQL API from a user’s existing data sources and automates deployment to AWS. (React, Express, AWS EC2, ECS, ECR, Fargate, GraphQL Mesh)
 
 <p>
-  <img src="https://github.com/feliciaiveliz/feliciaiveliz.github.io/blob/main/images/architecture.png" width="500" />
-  <img src="https://github.com/feliciaiveliz/feliciaiveliz.github.io/blob/main/images/dashboard.png" width="500" />
+  <img src="https://github.com/feliciaiveliz/feliciaiveliz.github.io/blob/main/images/architecture.png" width="400" />
+  <img src="https://github.com/feliciaiveliz/feliciaiveliz.github.io/blob/main/images/dashboard.png" width="400" />
  </p>                                                                                                          
        
 ✨ [Read Nexus Case Study](https://nexus-graphql.github.io/)
