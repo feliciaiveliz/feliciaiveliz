@@ -2,6 +2,10 @@
 
 👩‍💻 I'm a full-stack software engineer based in College Station, TX and I'm always eager to learn and improve my skills. I have a passion for solving challenging engineering problems with code and have several years with JavaScript/Node.js, Ruby, SQL, React, and AWS! 
 
+ <a href="https://www.feliciaiveliz.github.io">
+    <img src="https://skillicons.dev/icons?i=ruby,js,go,nodejs,postgres,graphql,express,react,docker,aws,heroku,git,github,vscode,bash,linux,typescript,nginx,pug,html,css,mongodb" />
+  </a>
+
 🎉 Most recently, I built Nexus, an open-source GraphQL tool that generates and deploys a GraphQL API from a user’s existing data sources and automates deployment to AWS. (React, Express, AWS EC2, ECS, ECR, Fargate, GraphQL Mesh)
 
 <p>
