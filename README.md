@@ -22,7 +22,7 @@
 ## 📜Writing
 - [The Importance of Time and Stress Management For Launch School Interviews](https://feliciabacon.hashnode.dev/the-importance-of-time-and-stress-management-for-launch-school-interviews)
 
-## 🧰 Technologies & Languages I have experience with:
+## 🛠️Technologies & Languages I have experience with:
 
  <a href="https://www.feliciaiveliz.github.io">
     <img src="https://skillicons.dev/icons?i=ruby,js,go,nodejs,postgres,graphql,express,react,docker,aws,heroku,git,github,vscode,bash,linux,typescript,nginx,pug,html,css,mongodb,jest" />
