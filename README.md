@@ -28,6 +28,11 @@
     <img src="https://skillicons.dev/icons?i=ruby,js,go,nodejs,postgres,graphql,express,react,docker,aws,heroku,git,github,vscode,bash,linux,typescript,nginx,pug,html,css,mongodb,jest" />
   </a>
 
+## ✨My links!
+- [Website](https://feliciaiveliz.github.io)
+- [LinkedIn](https://www.linkedin.com/in/felicia-iveliz-bacon/)
+- [Youtube](https://www.youtube.com/channel/UCMtqVykGztIYmj7OpFf7oeQ)
+
 <!---
 feliciaiveliz/feliciaiveliz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
