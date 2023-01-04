@@ -19,6 +19,9 @@
 - [The Importance of Not Stressing Over Deadlines and Mastering the Fundamentals](https://www.youtube.com/watch?v=_4tKzS-OMQU&t=3s)
 - [How I Study and Prepare for Launch School's Assessments](https://www.youtube.com/watch?v=NS1ar08blQk)
 
+## 📜Writing
+- [The Importance of Time and Stress Management For Launch School Interviews](https://feliciabacon.hashnode.dev/the-importance-of-time-and-stress-management-for-launch-school-interviews)
+
 ## 🧰 Technologies & Languages I have experience with:
 
  <a href="https://www.feliciaiveliz.github.io">
